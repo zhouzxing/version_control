@@ -1,4 +1,4 @@
-modify test conflict
+change modify test conflict
 
 edit 3rd line
 edit 2nd line
