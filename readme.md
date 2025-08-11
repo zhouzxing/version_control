@@ -1,5 +1,7 @@
-test conflict
+11111test conflict
 2222ddddd 2-n line
+ddddd 2-n line
+>>>>>>> refs/remotes/origin/master
 modify 1st line test conflict
 modify aaa
 modify test conflict
