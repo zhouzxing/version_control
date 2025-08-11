@@ -1,5 +1,5 @@
 test conflict
-
+modify aaa
 edit 3rd line
 edit 2nd line
 
