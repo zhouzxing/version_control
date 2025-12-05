@@ -1,3 +1,4 @@
+# vimdiff config
+merge tool vimdiff
 
-ddd tool vimdiff
-
+add config vimdiff
