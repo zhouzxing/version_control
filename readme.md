@@ -1,5 +1,5 @@
 ###
-merge tool test
+merge tool vimdiff
 
 
 
