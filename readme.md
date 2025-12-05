@@ -1,5 +1,5 @@
 ###
-ddd tool test
+ddd tool vimdiff
 
 
 
